@@ -4,11 +4,9 @@
 Computer Science Undergraduate • Full Stack Developer • AI Enthusiast
 </p>
 
-<img align="right" width="350" src="./images.gif">
+<img align="right" width="350" src="./images/Pixel Study GIF - Pixel Study - Discover & Share GIFs.gif">
 
 ### ☕ About Me
-
-🎓 B.Tech Computer Science Engineering @ MIT-WPU (CGPA: 8.80)
 
 💻 Passionate about Software Development, AI and Problem Solving
 
