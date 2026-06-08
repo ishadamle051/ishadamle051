@@ -10,11 +10,6 @@ Computer Science Undergraduate • Full Stack Developer • AI Enthusiast
 
 💻 Passionate about Software Development, AI and Problem Solving
 
-🌱 Currently learning:
-- System Design
-- Cloud Technologies
-- Advanced Full Stack Development
-
 🚀 Interested in:
 - Artificial Intelligence
 - Backend Engineering
