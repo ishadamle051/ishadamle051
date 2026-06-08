@@ -1,69 +1,170 @@
-<h1 align="center">Hey 👋, I'm Isha</h1>
+<h1 align="center">🌙 Hey, I'm Isha Damle</h1>
 
-<img align="right" alt="Coding" width="300" src="images.gif">
+<p align="center">
+Computer Science Undergraduate • Full Stack Developer • AI Enthusiast
+</p>
 
-### 🚀 About Me
+<img align="right" width="350" src="./images.gif">
 
-💻 Passionate Software Developer  
-🎓 Computer Science Student  
-🌱 Currently learning Full Stack Development & System Design  
-⚡ Interested in AI, Cloud Computing, and Scalable Applications  
-🎯 Goal: Build impactful software and contribute to Open Source
+### ☕ About Me
 
-<br>
+🎓 B.Tech Computer Science Engineering @ MIT-WPU (CGPA: 8.80)
 
-### 🌐 Connect With Me
+💻 Passionate about Software Development, AI and Problem Solving
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](YOUR_PORTFOLIO)
-[![GitHub](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+🌱 Currently learning:
+- System Design
+- Cloud Technologies
+- Advanced Full Stack Development
+
+🚀 Interested in:
+- Artificial Intelligence
+- Backend Engineering
+- Scalable Systems
+- Data Structures & Algorithms
 
 ---
 
 ### 🧑‍💻 About Me in Code
 
 ```javascript
-const developer = {
-    name: "Your Name",
-    location: "India",
-    role: "Software Developer",
-    languages: ["JavaScript", "TypeScript", "Python", "Java", "SQL"],
-    frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind"],
-    backend: ["Node.js", "Express", "Spring Boot"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    tools: ["Git", "Docker", "AWS", "Linux"],
-    currentlyLearning: ["System Design", "Cloud", "AI"],
-    funFact: "I debug with console.log() and I'm proud of it 😆"
+const isha = {
+    education: "B.Tech CSE @ MIT-WPU",
+    
+    languages: [
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript",
+        "SQL"
+    ],
+
+    frontend: [
+        "React",
+        "JavaFX",
+        "HTML",
+        "CSS"
+    ],
+
+    backend: [
+        "Express.js",
+        "Node.js",
+        "JDBC"
+    ],
+
+    databases: [
+        "MySQL"
+    ],
+
+    ai_ml: [
+        "OpenCV",
+        "MediaPipe",
+        "Scikit-Learn",
+        "YOLO",
+        "SSD"
+    ],
+
+    cloud: ["AWS"],
+
+    currentFocus: [
+        "System Design",
+        "DSA",
+        "Full Stack Development"
+    ],
+
+    motto: "Building solutions that make a difference."
 };
 ```
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,mongodb,mysql,git,docker,aws,linux" />
+### 🎓 EduSync
+Full-stack Java application built using JavaFX, JDBC and MySQL.
+
+✔ Authentication System  
+✔ CRUD Operations  
+✔ File Handling  
+✔ Real-time Chat Features
+
+---
+
+### 🏥 MediTrack
+
+Smart Hospital Management System built using React, Express and MySQL.
+
+✔ JWT Authentication
+
+✔ Role-Based Access Control
+
+✔ Appointment Scheduling
+
+✔ Prescription Management
+
+---
+
+### 🤖 AI-Based Cheating Detection System
+
+Real-time online proctoring solution using:
+
+- OpenCV
+- MediaPipe
+- Machine Learning
+
+Features:
+
+✔ Gaze Tracking
+
+✔ Phone Detection
+
+✔ Suspicious Activity Monitoring
+
+---
+
+### 🚆 Railway Reservation System
+
+Streamlit + MySQL application for:
+
+✔ Train Booking
+
+✔ Seat Allocation
+
+✔ Database Trigger Automation
+
+---
+
+### 🎯 Object Detection using YOLO & SSD
+
+Real-time object detection pipelines optimized for:
+
+✔ High Accuracy
+
+✔ Low Latency
+
+✔ Live Video Processing
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,react,nodejs,mysql,aws,git,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🌐 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
----
-
-### 🎯 Current Focus
-
-- Building Full Stack Projects
-- Solving DSA Problems
-- Learning System Design
-- Contributing to Open Source
+📧 ishadamle1108@gmail.com
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk2aGR6c3NnNW9xMWxkN3E5MzF5a2N0NGU4aTRydG11YjM4bG1nZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="50">
+<div align="center">
 
-**"Building ideas, one line of code at a time."** 🚀
+### 🌙 While the city sleeps, ideas come to life.
+
+</div>
