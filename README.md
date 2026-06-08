@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Isha</h1>
 
-<img align="right" alt="Coding" width="300" src="images">
+<img align="right" alt="Coding" width="300" src="images.gif">
 
 ### 🚀 About Me
 
